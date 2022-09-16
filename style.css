@@ -35,8 +35,12 @@ hr{
 .navigation{
     background-color: var(--primary-color);
     color:whitesmoke
+    padding:2rem;
+    border-bottom-left-radius:1rem;   
 }
-
+.navigation.nav-pills{
+    text-align: right;
+}
 
 
     
