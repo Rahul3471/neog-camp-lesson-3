@@ -87,7 +87,7 @@ hr{
 .hero.hero-heading{
     text-align: center;
     padding-top: 1rem;
-    color:var(--dark-grey);
+    color:var(--primary-color);
 }
 .hero.hero-heading.heading-inverted{
     color:var(--primary color);
@@ -107,3 +107,7 @@ hr{
     color:white
     text-align:center;
    } 
+   .footer.footer-header{
+    font-weight: bold;
+    font-size: large;
+   }
